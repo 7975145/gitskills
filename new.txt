@@ -1,3 +1,4 @@
 this is a new begining
+both lines exist
 this is edited on gitskill2 directory
-
+this is edited on gitskills directory
